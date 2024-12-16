@@ -53,8 +53,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Maven: For dependency management.
 
 ## Demo
-
-
+![postman.png](src%2Fimgs%2Fpostman.png)
+![Untitled.png](src%2Fimgs%2FUntitled.png)
 
 ## Future Work
 
