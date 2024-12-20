@@ -9,8 +9,6 @@ The goal is to keep the backend running smoothly.
 
 ## User Stories
 
-List the user stories that guided the development of your application. Format these stories as: "As a [type of user], I
-want [some goal] so that [some reason]."
 
 - As an admin, I want to see all categories so I can manage the categories in the system.
 - As an admin, I want to view a specific category by its ID so I can check its details.
@@ -53,15 +51,12 @@ Follow these steps to get your application running within IntelliJ IDEA:
 - Maven: For dependency management.
 
 ## Demo
+
 ![postman.png](src%2Fimgs%2Fpostman.png)
 ![Untitled.png](src%2Fimgs%2FUntitled.png)
 
 ## Future Work
 
-Outline potential future enhancements or functionalities you might consider adding:
-
-- Enhancing search capabilities with advanced filters like mileage or vehicle condition.
-- Adding vehicle filtering options based on price, mileage, or year.
 - Implementing a graphical user interface (GUI) for an enhanced user experience.
 - Adding user authentication and role-based access control for improved security.
 
@@ -74,10 +69,8 @@ List resources such as tutorials, articles, or documentation that helped you dur
 
 ## Team Members
 
-- **Name 1** - Enes yilmaz
+- Enes yilmaz.
 
 ## Thanks
-
-Express gratitude towards those who provided help, guidance, or resources:
 
 - Thank you to Raymond for continuous support and guidance.
